@@ -29,6 +29,7 @@ print(f"the mission start in {time*60}-seconds")
 print(f"the mission starts in {time}-minute")
 print(f"the mission strats in {time/60}-hours")
 #nymber 9 
-
-
-
+km_into_mile = input("enter distance")
+km_into_mile = int(km_into_mile)
+mile = km_into_mile/1.6
+print(f"distance_in_mile{mile}") 

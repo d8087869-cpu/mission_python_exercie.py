@@ -9,3 +9,11 @@ print(type(agent_name))
 print(type(mission_code))
 print(type(distance_to_target))
 print(type(mission_active_status))
+#number 5 
+base_to_target_and_back = distance_to_target*2 
+print(base_to_target_and_back)
+# number 6 
+fuel_usage = 3
+fuel_usage = int(fuel_usage)
+print(base_to_target_and_back*fuel_usage)
+

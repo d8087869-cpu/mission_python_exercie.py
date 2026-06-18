@@ -9,3 +9,9 @@ d=True
 m=False 
 print(bin(d))
 print(bin(m))
+#3 
+i = 2
+f = 2.0 
+print(i == f) 
+print(bin(int(f)))
+print(type(i), type(f))

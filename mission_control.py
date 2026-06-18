@@ -4,3 +4,8 @@ mission_code = 147
 distance_to_target = 5.5
 mission_active_status = False 
 print(f"agent name{agent_name},mission code{mission_code},distance to target{distance_to_target} , mission active status{mission_active_status}")
+#number 4 
+print(type(agent_name))
+print(type(mission_code))
+print(type(distance_to_target))
+print(type(mission_active_status))

@@ -4,3 +4,8 @@ string = "5"
 num = 5 
 print(bin(num))
 print(bin(int(string)))
+#2 
+d=True
+m=False 
+print(bin(d))
+print(bin(m))

@@ -33,3 +33,6 @@ km_into_mile = input("enter distance")
 km_into_mile = int(km_into_mile)
 mile = km_into_mile/1.6
 print(f"distance_in_mile{mile}") 
+#number 10 
+new_agent_name = input("what is your new agent name")
+print(f"agent A {agent_name}, agent B {new_agent_name}")

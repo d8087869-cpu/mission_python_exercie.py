@@ -15,3 +15,4 @@ f = 2.0
 print(i == f) 
 print(bin(int(f)))
 print(type(i), type(f))
+#4 
